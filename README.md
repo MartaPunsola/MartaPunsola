@@ -7,6 +7,12 @@
 - 💬 I speak English, Catalan, Spanish, French and Italian. Currently learning German.
 - :alien: Fun fact: I'm a part-time pole dance instructor.
 
+**Final projects from the Bootcamp:**
+
+[Virtual Pet](https://github.com/MartaPunsola/ITACADEMY_VIRTUAL_PET.git): Non reactive API with frontend connection (React).
+
+[Blackjack](https://github.com/MartaPunsola/ITACADEMY_BLACKJACK.git): Reactive API using Webflux.
+
 **How to reach me:**
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/martapunsola/)](https://www.linkedin.com/in/martapunsola/)

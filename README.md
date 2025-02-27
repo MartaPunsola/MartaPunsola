@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Java & Spring Framework at @IT-Academy-BCN.
+- 🌱 I learned Java & Spring Framework at @IT-Academy-BCN.
 - :mortar_board: I have a PhD in Linguistics.
 - 💬 I speak English, Catalan, Spanish, French and Italian. Currently learning German.
 - :alien: Fun fact: I'm a part-time pole dance instructor.
